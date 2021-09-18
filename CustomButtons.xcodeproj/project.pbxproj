@@ -13,6 +13,7 @@
 		A64145A726F66DAC00B696DE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A64145A526F66DAC00B696DE /* Main.storyboard */; };
 		A64145A926F66DAD00B696DE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A64145A826F66DAD00B696DE /* Assets.xcassets */; };
 		A64145AC26F66DAD00B696DE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A64145AA26F66DAD00B696DE /* LaunchScreen.storyboard */; };
+		A64145B426F66DD100B696DE /* FansyButtons.swift in Sources */ = {isa = PBXBuildFile; fileRef = A64145B326F66DD100B696DE /* FansyButtons.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A64145A826F66DAD00B696DE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A64145AB26F66DAD00B696DE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A64145AD26F66DAD00B696DE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A64145B326F66DD100B696DE /* FansyButtons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FansyButtons.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				A64145A826F66DAD00B696DE /* Assets.xcassets */,
 				A64145AA26F66DAD00B696DE /* LaunchScreen.storyboard */,
 				A64145AD26F66DAD00B696DE /* Info.plist */,
+				A64145B326F66DD100B696DE /* FansyButtons.swift */,
 			);
 			path = CustomButtons;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A64145A426F66DAC00B696DE /* ViewController.swift in Sources */,
+				A64145B426F66DD100B696DE /* FansyButtons.swift in Sources */,
 				A64145A026F66DAC00B696DE /* AppDelegate.swift in Sources */,
 				A64145A226F66DAC00B696DE /* SceneDelegate.swift in Sources */,
 			);
